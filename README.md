@@ -1,1 +1,2 @@
 # WDC-XI-2023
+# WDC atau dikenal dengan Web Desain Club merupakan Ekstrakurikuler yang ada di SMK TI Bali Global Denpasar pada ekstra WDC, siswa/siswi SMK TI Bali Global Denpasar dapat mengembangkan minat dan bakatnya dalam bidang koding. Ekstra WDC kelas XI hanya mengkhusus pada pemrograman berbasis Backend yaitu PHP, dan untuk penggunaan style menggunakan CSS dan Bootstrap.
