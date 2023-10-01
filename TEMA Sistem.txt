@@ -1,0 +1,36 @@
+1. Sistem Perpustakaan
+   - 2 UI (Admin, User)
+   - Admin (Mengelola semua -> buku, peminjaman, pengembalian, denda, dll)
+   - User (Melihat buku, Meminjam, Mengembalikan, membayar denda (kalo telat), dll)
+2. Sistem Manajemen Peralatan Lab
+   - 2 UI (Admin, User)
+   - Admin (Mengelola semua -> lab, peralatan lab, maintenance, dll)
+   - User (Hanya bisa melihat)
+3. Sistem Informasi Manajemen Ekstra WDC (Absen QR Code (opsional))
+   - 2 UI (Admin, User)
+   - Admin (Mengelola semua -> Kelas (Rombel), Siswa, Absensi, Nilai (opsi), dll)
+   - User (Hanya bisa melihat -> kelas, siswa, absensi(kehadiran sendiri), nilai(sendiri), dll)
+4. Sistem Manajemen Kepegawaian
+   - 2 UI (Admin, User)
+   - Admin (Mengelola semua -> Divisi, Kepegawaian, Tugas, dll)
+   - User (Hanya bisa melihat)
+5. Sistem Persuratan
+   - 1 UI
+   - Admin (Surat masuk, Surat keluar)
+6. Sistem Pengaduan Siswa
+   - 2 UI (Admin, User)
+   - Admin (Mengelola semua -> Pengaduan Masuk, Pengaduan terlaksana, Pengaduan diabaikan)
+   - User (Login sistem -> Buat pengaduan, Data Pengaduan)
+7. Sistem Konsultasi Guru BK
+   - Mirip seperti HaloDoc
+8. Sistem Storage Manajemen
+   - Seperti Google Drive
+9. Sistem Informasi Manajemen PRAKRIN
+   - 2 UI
+   - Admin (Mengelola Semua -> Tahun Ajaran/Gelombang, Tempat Dudi, Siswa, Prakrin, dll)
+   - User (Login -> Melihat informasi Tempat dudi, Upload persyaratan, Upload Laporan, dll)
+10. Sistem Peminjaman Lab
+   - 2 UI
+   - Admin (Mengelola semua -> Lab, Jadwal Peminjaman, Peminjaman, dll)
+   - User (Melihat jadwal Peminjaman lab, Meminjam lab (Ada batas maks jam peminjaman lab))
+11. 
