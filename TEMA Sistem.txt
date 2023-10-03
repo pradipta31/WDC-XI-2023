@@ -6,7 +6,7 @@
    - 2 UI (Admin, User)
    - Admin (Mengelola semua -> lab, peralatan lab, maintenance, dll)
    - User (Hanya bisa melihat)
-3. Sistem Informasi Manajemen Ekstra WDC (Absen QR Code (opsional))
+3. Sistem Informasi Manajemen Ekstra WDC (Absen QR Code (opsional)) -> (Bezaleel Elderoy Sulastiyo - XI RPL 5)
    - 2 UI (Admin, User)
    - Admin (Mengelola semua -> Kelas (Rombel), Siswa, Absensi, Nilai (opsi), dll)
    - User (Hanya bisa melihat -> kelas, siswa, absensi(kehadiran sendiri), nilai(sendiri), dll)
@@ -29,7 +29,7 @@
    - 2 UI
    - Admin (Mengelola Semua -> Tahun Ajaran/Gelombang, Tempat Dudi, Siswa, Prakrin, dll)
    - User (Login -> Melihat informasi Tempat dudi, Upload persyaratan, Upload Laporan, dll)
-10. Sistem Peminjaman Lab
+10. Sistem Peminjaman Lab (M. Hidayatullah - XI RPL 5)
    - 2 UI
    - Admin (Mengelola semua -> Lab, Jadwal Peminjaman, Peminjaman, dll)
    - User (Melihat jadwal Peminjaman lab, Meminjam lab (Ada batas maks jam peminjaman lab))
