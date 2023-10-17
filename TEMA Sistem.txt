@@ -4,7 +4,8 @@ JUDUL-JUDUL YANG DAPAT DI AMBIL
    - 2 UI (Admin, User)
    - Admin (Mengelola semua -> buku, peminjaman, pengembalian, denda, dll)
    - User (Melihat buku, Meminjam, Mengembalikan, membayar denda (kalo telat), dll)
-2. Sistem Manajemen Peralatan Lab
+2. Sistem Manajemen Peralatan Lab -> (I Kadek Cri Bhaskara Wirawan Sutha
+ - XI RPL 3)
    - 2 UI (Admin, User)
    - Admin (Mengelola semua -> lab, peralatan lab, maintenance, dll)
    - User (Hanya bisa melihat)
@@ -12,20 +13,20 @@ JUDUL-JUDUL YANG DAPAT DI AMBIL
    - 2 UI (Admin, User)
    - Admin (Mengelola semua -> Kelas (Rombel), Siswa, Absensi, Nilai (opsi), dll)
    - User (Hanya bisa melihat -> kelas, siswa, absensi(kehadiran sendiri), nilai(sendiri), dll)
-4. Sistem Manajemen Kepegawaian
+4. Sistem Manajemen Kepegawaian -> (I Gede Made Paramarta Nugraha - XI RPL 5)
    - 2 UI (Admin, User)
    - Admin (Mengelola semua -> Divisi, Kepegawaian, Tugas, dll)
    - User (Hanya bisa melihat)
-5. Sistem Persuratan
+5. Sistem Persuratan -> (Brendan Dhananjaya - XI RPL 1)
    - 1 UI
    - Admin (Surat masuk, Surat keluar)
-6. Sistem Pengaduan Siswa
+6. Sistem Pengaduan Siswa -> (Shandy Ananta Suprapta - XI RPL 1)
    - 2 UI (Admin, User)
    - Admin (Mengelola semua -> Pengaduan Masuk, Pengaduan terlaksana, Pengaduan diabaikan)
    - User (Login sistem -> Buat pengaduan, Data Pengaduan)
 7. Sistem Konsultasi Guru BK
    - Mirip seperti HaloDoc
-8. Sistem Storage Manajemen
+8. Sistem Storage Manajemen -> (Albert Made Marvell Adnyana - XI RPL 5)
    - Seperti Google Drive
 9. Sistem Informasi Manajemen PRAKRIN
    - 2 UI
@@ -35,4 +36,6 @@ JUDUL-JUDUL YANG DAPAT DI AMBIL
    - 2 UI
    - Admin (Mengelola semua -> Lab, Jadwal Peminjaman, Peminjaman, dll)
    - User (Melihat jadwal Peminjaman lab, Meminjam lab (Ada batas maks jam peminjaman lab))
-11. 
+11. Sistem Pembayaran SPP SMK TI Bali Global Denpasar -> (Friendly Riantha Dwi Pratama - XI RPL 3)
+12. Sistem Manajemen Suplai Makanan di Kantin SMK TI Bali Global Denpasar -> (I Made Pasek Banuarta Satwika - XI RPL 3)
+13. 
