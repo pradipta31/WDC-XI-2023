@@ -1,0 +1,35 @@
+Coba analisis pernyataan berikut
+
+if -> Tidak enak badan?
+   if -> Kepala pusing?
+     if -> Nyeri pada bagian leher?
+        if -> nyeri pada bagian kepala?
+           output -> anda demam, segera minum obat!
+        else
+          output -> anda butuh healing!
+          // TAMBAHKAN 1 buah if untuk menentukan sakit kepala sebelah
+     else
+        if -> nyeri pada bagian punggung?
+           output -> anda masuk angin
+        else
+           output -> anda pegal linu
+   else
+     if -> Nyeri pada bagian leher?
+        if -> Nyeri pada bagian tenggorokan?
+           if -> sulit bernapas?
+              if -> hidung anda mampet?
+                  output -> anda flu
+              else
+                output -> anda radang tenggorokan
+           else
+             output -> anda perlu di pijat
+        else
+           if -> Sesak pada bagian dada?
+              output -> anda butuh olahraga
+           else
+              output -> anda perlu di pijat
+     else
+       // TAMBAHKAN 1 buah if untuk menentukan sakit ditentukan sendiri oleh kelompok
+else
+   output -> anda sehat!
+
