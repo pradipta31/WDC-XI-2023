@@ -28,7 +28,7 @@ JUDUL-JUDUL YANG DAPAT DI AMBIL
    - Mirip seperti HaloDoc
 8. Sistem Storage Manajemen -> (Albert Made Marvell Adnyana - XI RPL 5)
    - Seperti Google Drive
-9. Sistem Informasi Manajemen PRAKRIN
+9. Sistem Informasi Manajemen PRAKRIN -> (Sadewa Bharaka Mahaputra - XI RPL 5)
    - 2 UI
    - Admin (Mengelola Semua -> Tahun Ajaran/Gelombang, Tempat Dudi, Siswa, Prakrin, dll)
    - User (Login -> Melihat informasi Tempat dudi, Upload persyaratan, Upload Laporan, dll)
